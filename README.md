@@ -1,2 +1,2 @@
 # hello-coders
-a simple example
+hi all, wish u ate a lot at your dinner
